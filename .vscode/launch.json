@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StatePatternApplication<state-pattern>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.statepattern.StatePatternApplication",
+            "projectName": "state-pattern",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
